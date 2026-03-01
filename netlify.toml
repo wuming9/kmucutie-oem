@@ -1,8 +1,7 @@
 [build]
-  command = "cd exampleSite && hugo --gc --minify -D -b https://blowfish.page"
+  command = "cd exampleSite && hugo --gc --minify"
   publish = "exampleSite/public"
 
-[build.environment]
-HUGO_VERSION = "0.155.3"
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
+[context.production.environment]
+  HUGO_VERSION = "0.124.1"
+  GO_VERSION = "1.21"
