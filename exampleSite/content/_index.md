@@ -1,29 +1,14 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "KMUCUTIE | Trolling Lure OEM"
+description: "OEM & private label manufacturer focused on offshore trolling lures. B2B only."
 ---
 
+# KMUCUTIE — Trolling Lure OEM (B2B Only)
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center pe-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
+KMUCUTIE focuses only on offshore saltwater trolling fishing lures for OEM / private label cooperation.
 
+- Stable QC & repeat-order consistency
+- Scalable production for bulk orders
+- Custom colors, packaging, and hook upgrade options
 
-```shell
-npx blowfish-tools
-```  
-
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
-
-
+**WhatsApp:** +86 138 0337 3007
